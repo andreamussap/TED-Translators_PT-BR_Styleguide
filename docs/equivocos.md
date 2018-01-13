@@ -8,19 +8,20 @@ Ao realizar a tradução, faça com que ela fique adequada ao novo acordo ortogr
 
 Entre os equívocos mais comuns está o mau emprego da acentuação: os verbos “crer”, “dar”, “ler” e “ver” perderam o acento circunflexo, enquanto “pôr” o teve mantido.
 
-[Nova Ortografia - Michaelis][eq1]
+[Nova Ortografia - UOL Educação][eq1]
 
 ## Uso equivocado dos pronomes relativos
 
-“A menina que o pai fala mandarim”, usando “que o” inadequadamente no lugar de “cujo” (“a menina cujo pai fala mandarim”). Nos links a seguir, você encontra mais informações sobre a aplicação adequada dos pronomes relativos:
+“A menina que o pai fala mandarim”, usando “que o” inadequadamente no lugar de “cujo” (“a menina cujo pai fala mandarim”). 
+Nos links a seguir, você encontra mais informações sobre a aplicação adequada dos pronomes relativos:
 
-- [Mau uso dos pronomes – Revista Língua][eq2]
 - [Pronomes Relativos – Só Português][eq3]
 - [Emprego de Pronomes Relativos – Só Português][eq4]
 
 ## Uso de iniciais maiúsculas ou minúsculas
 
-Um exemplo clássico é o das nacionalidades. Em inglês, por exemplo, nacionalidades são escritas com inicial maiúscula, independentemente de onde a palavra na frase (She is **American**), mas não em português (Ela é **americana**). Veja mais sobre quando usar iniciais maiúsculas e minúsculas na língua portuguesa:
+Um exemplo clássico é o das nacionalidades. Em inglês, por exemplo, nacionalidades são escritas com inicial maiúscula, independentemente de onde a palavra esteja na frase (She is **American**), mas não em português (Ela é **americana**). 
+Veja mais sobre quando usar iniciais maiúsculas e minúsculas na língua portuguesa:
 
 - [Uso de maiúscula – Senado][eq5]
 - [Uso de minúscula – Senado / Uso de minúscula para cargos - Senado][eq6]
@@ -42,7 +43,7 @@ Um exemplo clássico de concordância atrativa é quando há na frase a express�
 
 > “Um terço das mulheres presentes estão grávidas” - concordância atrativa, em vez de “Um terço das mulheres presentes está grávido” - concordância gramatical.
 
-**A concordância gramatical é a mais recomendada na maioria dos casos, porém ambas podem ser usadas.** Veja mais [nesse link][11].
+**A concordância gramatical é a mais recomendada na maioria dos casos, porém ambas podem ser usadas.** Veja mais [nesse link][eq11].
 
 ## Regência verbal e nominal
 
@@ -70,13 +71,15 @@ Um exemplo clássico é o uso de “ao invés de” com o mesmo sentido de “em
 
 ### “À medida que” / “Na medida em que”
 
-Outro par de expressões “parecidas”, que gera dúvidas, é “à medida que” / “na medida que”. Veja mais nos links abaixo.
+Outro par de expressões parecidas que gera dúvidas é “à medida que” e “na medida que”.
+Veja mais nos links abaixo.
 
 - [Locução conjuntiva – Uol Educação][eq23]
 - [A medida e na medida que – Mundo Educação][eq24]
 - [A medida e na medida que – Senado][eq25]
 
-### Este/esse, esta/essa, isto/isso. Veja mais nos links abaixo.
+### Este/esse, esta/essa, isto/isso
+Veja mais nos links abaixo.
 
 - [Este, esse, esta, essa – Senado][eq43]
 - [Este, esse, esta, essa – Uol Educação][eq44]
@@ -198,8 +201,8 @@ Utilize sempre as aspas duplas, exceto no caso em que se necessite de um conjunt
 
 Atente-se ao gênero de uma palavra ao traduzir. Em palavras cujo gênero é indefinido, como friend, tente inferir o certo e, caso não seja possível, escolha o que preferir.
 
-[eq1]: http://michaelis.uol.com.br/novaortografia.php
-[eq2]: http://revistalingua.uol.com.br/textos/blog-ponta/mau-uso-do-pronome-relativo-afeta-a-coesao-326205-1.asp
+[eq1]: https://download.uol.com.br/educacao/UOL_Educacao_Conheca_as_novas_regras_da_Reforma_Ortografica.pdf
+[eq2]: 
 [eq3]: http://www.soportugues.com.br/secoes/morf/morf51.php
 [eq4]: http://www.soportugues.com.br/secoes/sint/sint37.php
 [eq5]: http://www12.senado.leg.br/manualdecomunicacao/redacao-e-estilo/estilo/maiuscula
@@ -208,7 +211,7 @@ Atente-se ao gênero de uma palavra ao traduzir. Em palavras cujo gênero é ind
 [eq8]: http://www.soportugues.com.br/secoes/sint/sint59.php
 [eq9]: http://www.pucrs.br/manualred/nominal.php
 [eq10]: http://www.pucrs.br/manualred/verbal.php
-[eq11]: http://educacao.uol.com.br/dicas-portugues/concordancia-com-partitivos-seguidos-de-plural.jhtm
+[eq11]: http://www3.uol.com.br/qualidadeconteudo/portugues/concordancia-com-partitivos-seguidos-de-plural.jhtm
 [eq12]: http://www.soportugues.com.br/secoes/sint/sint61.%09php
 [eq13]: http://pt.wikipedia.org/wiki/Reg%C3%AAncia_verbal
 [eq14]: http://www.infoescola.com/portugues/regencia-verbal/
@@ -241,4 +244,4 @@ Atente-se ao gênero de uma palavra ao traduzir. Em palavras cujo gênero é ind
 [eq41]: http://www.portugues.com.br/gramatica/particularidades-participio.htmlhttp:/pt.wikipedia.org/wiki/Partic%C3%ADpio
 [eq42]: http://revisaoparaque.com/blog/onde-aonde-e-em-que-quando-usar-cada-um/
 [eq43]: http://www12.senado.leg.br/manualdecomunicacao/redacao-e-estilo/este-esse-esta-essa
-[eq44]: http://educacao.uol.com.br/dicas-portugues/este-ou-esse.jhtm
+[eq44]: https://educacao.uol.com.br/noticias/bbc/2017/04/19/professor-pasquale-responde-devo-usar-esse-ou-este.htm
