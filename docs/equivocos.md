@@ -202,7 +202,6 @@ Utilize sempre as aspas duplas, exceto no caso em que se necessite de um conjunt
 Atente-se ao gênero de uma palavra ao traduzir. Em palavras cujo gênero é indefinido, como friend, tente inferir o certo e, caso não seja possível, escolha o que preferir.
 
 [eq1]: https://download.uol.com.br/educacao/UOL_Educacao_Conheca_as_novas_regras_da_Reforma_Ortografica.pdf
-[eq2]: 
 [eq3]: http://www.soportugues.com.br/secoes/morf/morf51.php
 [eq4]: http://www.soportugues.com.br/secoes/sint/sint37.php
 [eq5]: http://www12.senado.leg.br/manualdecomunicacao/redacao-e-estilo/estilo/maiuscula
